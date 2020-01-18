@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:jpush_flutter/jpush_flutter.dart';
 
 void main() => runApp(MyApp());
 
